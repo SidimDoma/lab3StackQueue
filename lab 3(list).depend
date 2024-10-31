@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1730373099 source:c:\users\user\desktop\Си++\lab 3(list)\main.cpp
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+
+1730373099 c:\users\user\desktop\Си++\lab 3(list)\stack.h
+	<iostream>
+	<stdexcept>
+
+1730373224 c:\users\user\desktop\Си++\lab 3(list)\queue.h
+	<iostream>
+	<stdexcept>
+
